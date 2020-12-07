@@ -7,3 +7,7 @@ print(Tuple[1])
 print(Tuple[3])
 Tuple2 =(10)
 print(Tuple2)
+a = 10
+b = 20
+c = a + b
+print(c)
